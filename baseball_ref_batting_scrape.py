@@ -4,7 +4,7 @@ Created on Wed Oct  3 14:28:38 2018
 
 @author: jbean
 """
-
+ 
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
